@@ -1,3 +1,5 @@
-window.addEventListener('load', function () {
+function displayName () {
     return 'Obansa John';
-})
+}
+
+displayName();
