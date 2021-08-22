@@ -76,6 +76,10 @@ ion-icon {
     background-blend-mode: multiply;
     background-attachment: scroll;
 }
+.profile {
+    display: flex;
+    align-items: center;
+}
 
 /* port name */
 .port-name {
@@ -134,10 +138,6 @@ ion-icon {
 .port-profile {
     margin: 0px;
     position: relative;
-}
-.port-profile .profile {
-    display: flex;
-    align-items: center;
 }
 .port-profile h2 {
     margin: 0px;
